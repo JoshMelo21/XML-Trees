@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1585602764 source:d:\code blocks\lab6\intheap.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1585602977 source:d:\code blocks\lab6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1585535095 source:d:\code blocks\lab6\intstack.c
+	<stdio.h>
+	<stdlib.h>
+
